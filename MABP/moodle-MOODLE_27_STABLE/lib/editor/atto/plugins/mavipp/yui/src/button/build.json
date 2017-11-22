@@ -1,0 +1,10 @@
+{
+    "name": "moodle-atto_mavipp-button",
+    "builds": {
+        "moodle-atto_mavipp-button": {
+            "jsfiles": [
+                "button.js"
+            ]
+        }
+    }
+}

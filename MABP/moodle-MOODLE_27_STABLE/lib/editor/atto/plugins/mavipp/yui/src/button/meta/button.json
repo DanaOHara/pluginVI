@@ -1,0 +1,7 @@
+{
+    "moodle-atto_mavipp-button": {
+        "requires": [
+            "moodle-editor_atto-plugin"
+        ]
+    }
+}
